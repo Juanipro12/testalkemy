@@ -3,8 +3,8 @@
 
 # Steps to run the project frontend
 1- cd .\testalkemyfront\
-2- npm install (waiting for the magic...)
-3- npm start 
+2- npm install (waiting for the magic...).
+3- npm start .
 
 ## Welcome to my project :D, hope you like it!
 
